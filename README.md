@@ -1,7 +1,7 @@
 ## 💫 About Me:
 - 👋 Hi, My name is Komilova Robiya.<br> 
 - 👨‍💻 Currently, I am working on myself to improve my skills.<br>  
-- 👀 I am Java backend developer<br>
+- ☕️ I am Java backend developer<br>
 - ✈️ [Connect with Telegram](https://t.me/k_robiyaa) 
 - 📃 [Resume](https://github.com/robiyakomilova/robiyakomilova/files/9786213/Komilova.Robiya.Resume.pdf.pdf)
 
